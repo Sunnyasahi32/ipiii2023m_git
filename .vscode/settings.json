@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "random": "c",
+        "cmath": "c",
+        "complex": "c"
+    }
+}
